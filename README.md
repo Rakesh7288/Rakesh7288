@@ -11,6 +11,7 @@ I'm Rakesh, a Business Analyst with experience working on **digital learning pla
 
 📫 Let's connect  
 LinkedIn: www.linkedin.com/in/rakeshr11
+
 Email: r.rakki99@gmail.com
 <!--
 **Rakesh7288/Rakesh7288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
